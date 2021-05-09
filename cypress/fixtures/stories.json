@@ -1,0 +1,20 @@
+{
+  "hits": [
+    {
+      "title": "How to test the frontend decoupled from the backend with Cypress",
+      "url": "https://example.com/how-to-test-the-frontend-decoupled-from-the-back-with-cypreess",
+      "author": "Walmyr Filho",
+      "num_comments": 50,
+      "points": 100,
+      "objectID": 0
+    },
+    {
+      "title": "Frontend testing with Cypress",
+      "url": "https://example.com/frontend-testing-with-cypreess",
+      "author": "John Doe",
+      "num_comments": 89,
+      "points": 147,
+      "objectID": 1
+    }
+  ]
+}

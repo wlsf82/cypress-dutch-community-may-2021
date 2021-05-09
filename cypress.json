@@ -1,0 +1,5 @@
+{
+  "baseUrl": "https://infinite-savannah-93746.herokuapp.com",
+  "chromeWebSecurity": false,
+  "pluginsFile": false
+}

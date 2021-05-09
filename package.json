@@ -1,0 +1,19 @@
+{
+  "name": "cypress-dutch-community-may-2021",
+  "version": "1.0.0",
+  "description": "Demo project for Cypress Dutch Community Meetup of May 2021",
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "keywords": [
+    "testing",
+    "cypress",
+    "Cypress Dutch Community"
+  ],
+  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev)",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^7.3.0"
+  }
+}
